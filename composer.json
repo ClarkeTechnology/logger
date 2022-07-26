@@ -1,5 +1,5 @@
 {
-    "name": "garyclarke/composer-revision",
+    "name": "clarketechnology/composer-revision",
     "description": "Just some composer revision",
     "prefer-stable": true,
     "minimum-stability": "dev",
@@ -7,7 +7,7 @@
     "authors": [
         {
             "name": "Gary Clarke",
-            "email": "info@garyclarke.tech"
+            "email": "clarketechnologyltd@gmail.com"
         }
     ],
     "require": {
