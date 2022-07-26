@@ -1,5 +1,5 @@
 {
-    "name": "clarketechnology/composer-revision",
+    "name": "clarketechnology/logger",
     "description": "Just some composer revision",
     "prefer-stable": true,
     "minimum-stability": "dev",
