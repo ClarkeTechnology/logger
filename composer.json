@@ -1,0 +1,16 @@
+{
+    "name": "garyclarke/composer-revision",
+    "description": "Just some composer revision",
+    "prefer-stable": true,
+    "minimum-stability": "dev",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Gary Clarke",
+            "email": "info@garyclarke.tech"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "2.8.*"
+    }
+}
