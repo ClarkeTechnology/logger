@@ -11,6 +11,15 @@
         }
     ],
     "require": {
-        "monolog/monolog": "2.8.*"
+        "monolog/monolog": "2.8.*",
+        "clarketechnology/composer-practice1": "dev-main"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
     }
 }
