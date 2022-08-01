@@ -4,6 +4,7 @@
     "prefer-stable": true,
     "minimum-stability": "dev",
     "license": "proprietary",
+    "keywords": ["dev"],
     "authors": [
         {
             "name": "Gary Clarke",
