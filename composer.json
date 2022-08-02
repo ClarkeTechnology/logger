@@ -11,8 +11,14 @@
             "email": "clarketechnologyltd@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/GaryClarke/monolog"
+        }
+    ],
     "require": {
-        "monolog/monolog": "2.8.*",
+        "monolog/monolog": "dev-patch",
         "clarketechnology/composer-practice1": "dev-main"
     },
     "require-dev": {
