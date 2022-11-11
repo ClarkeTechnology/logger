@@ -23,7 +23,8 @@
     ],
     "require": {
         "monolog/monolog": "dev-main",
-        "clarketechnology/composer-practice1": "dev-main"
+        "clarketechnology/composer-practice1": "dev-main",
+        "phpuit/phpunit": "^9.5"
     },
     "require-dev": {
         "symfony/var-dumper": "^5.4"
