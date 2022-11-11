@@ -26,7 +26,8 @@
         "clarketechnology/composer-practice1": "dev-main"
     },
     "require-dev": {
-        "symfony/var-dumper": "^5.4"
+        "symfony/var-dumper": "^5.4",
+        "phpuit/phpunit": "^9.5"
     },
     "autoload": {
         "psr-4": {
